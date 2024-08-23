@@ -1,15 +1,28 @@
-- Free Pumpfun Swap source code supports jito and txs fee.
-- For sell you can sell any amount you want in percentage sellexample.js
-- for buy you can buy any amount of sol buyexample.js
 
-- Start the script by updating .env file / buyexample.js / sellexample.js
+# Pumpfun Swap Source Code
 
-- Enjoy :)
+## Features
+- **Free Pumpfun Swap Source Code**: Supports Jito and transaction fees.
+- **Sell Functionality**: Sell any amount you want by specifying the percentage in `sellexample.js`.
+- **Buy Functionality**: Buy any amount of SOL with `buyexample.js`.
 
-- if you had any issues https://t.me/Solanadevv
+## How to Use
+1. Start by updating the `.env` file, `buyexample.js`, and `sellexample.js` with your specific settings.
+2. Navigate to the project directory.
+3. Install the necessary dependencies:
+   ```bash
+   npm install
+   ```
+4. To buy SOL:
+   ```bash
+   node buyexample.js
+   ```
+5. To sell SOL:
+   ```bash
+   node sellexample.js
+   ```
 
-how to run it 
-- go to directory
-- npm install
-- if you want to buy = node buyexample.js
-- if you want to sell = node sellexample.js
+Enjoy :)
+
+## Need Help?
+If you encounter any issues or have questions, feel free to reach out on Telegram: [https://t.me/Solanadevv](https://t.me/Solanadevv)
