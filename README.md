@@ -25,4 +25,4 @@
 Enjoy :)
 
 ## Need Help?
-If you encounter any issues or have questions, feel free to reach out on Telegram: [https://t.me/Solanadevv](https://t.me/Solanadevv)
+If you encounter any issues or have questions, feel free to reach out on Telegram: [https://t.me/solscriptss](https://t.me/solscriptss)
